@@ -1,0 +1,33 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+/venv
+venv
+*venv*
+*/venv/*
+db.sqlite3
+/db.sqlite3
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+__pycache__/
+__pycache__
+/__pycache__
+*.py[cod]
+blog/__pycache__
+*$py.class
+# End of https://www.toptal.com/developers/gitignore/api/venv
+db.sqlite3
+db.sqlite3
